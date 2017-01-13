@@ -30,7 +30,9 @@ TravisCI是目前新兴的开源持续集成构建项目，它与jenkins，GO的
 
 #### tools
 
-#### Makefile   
+#### Makefile 
+
+Makefile用于创建peer节点
 
 #### bddtests	       
 
